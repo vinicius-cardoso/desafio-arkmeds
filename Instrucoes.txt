@@ -1,0 +1,3 @@
+- Acesse a pasta com o programa em em um terminal com Python 3 instalado
+- Digite o nome do programa e o nome do arquivo CSV: `python3 validador.py cadastros.csv`
+- Para Linux com makefile, o comando a seguir imprime o resultado em um arquivo saida.txt: `make`
