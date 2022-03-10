@@ -1,4 +1,4 @@
-# Resolução de um desafio de programação como parte de um processo seletivo da Arkmeds utilizando Python 3.
+# Resolução de um desafio de programação como parte do processo seletivo da Arkmeds utilizando Python 3.
 
 ## O desafio consiste em ler uma arquivo CSV e mostrar ao usuário as informações que estão em formato incorreto, de modo que o usuário possa corrigí-las
 
